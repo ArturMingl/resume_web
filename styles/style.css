@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(220, 218, 211);
+    
+}
+
+.photo{
+    height: 200px;
+    margin: block;
+}
+
+.main_header{
+    color: darkblue;
+}
